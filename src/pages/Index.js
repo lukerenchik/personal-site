@@ -14,14 +14,14 @@ const Index = () => (
       <header>
         <div className="title">
           <h2>
-            <Link to="/">My Website</Link>
+            <Link to="/">Welcome!</Link>
           </h2>
 
         </div>
       </header>
       <p>
         {' '}
-        I want to take some space to thank {' '}<Link to="https://mldangelo.com/">Michael D&apos;Angelo</Link> for creating such an incredible toolkit to showcase my work as a developer, I want to make it clear I did not write this website framework, merely adapted it to my needs. Please feel free to read more{' '}
+        This website is adapted from {' '}<Link to="https://mldangelo.com/">Michael D&apos;Angelo</Link>'s personal website. Please feel free to read more{' '}
         <Link to="/about">about me</Link>, or you can check out my{' '}
         <Link to="/resume">resume</Link>, <Link to="/projects">projects</Link>,{' '}
         view <Link to="/stats">site statistics</Link>, or{' '}
