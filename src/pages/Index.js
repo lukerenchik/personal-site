@@ -21,7 +21,7 @@ const Index = () => (
       </header>
       <p>
         {' '}
-        This website is adapted from {' '}<Link to="https://mldangelo.com/">Michael D&apos;Angelo</Link>'s personal website. Please feel free to read more{' '}
+        This website is adapted from {' '}<Link to="https://mldangelo.com/">Michael D&apos;Angelo</Link>&apos;s personal website. Please feel free to read more{' '}
         <Link to="/about">about me</Link>, or you can check out my{' '}
         <Link to="/resume">resume</Link>, <Link to="/projects">projects</Link>,{' '}
         view <Link to="/stats">site statistics</Link>, or{' '}
