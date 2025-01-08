@@ -21,7 +21,7 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Luke. I am an Engineer at Bosch, an upcoming graudate of Oakland Unviersity,
+        Hi, I&apos;m Luke. I am an Engineer at Bosch, an upcoming graduate of Oakland University,
         with a specialization in Mathematics and a keen interest in Reinforcement Learning.
       </p>
       <ul className="actions">
