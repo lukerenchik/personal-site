@@ -14,6 +14,34 @@ If you asked me what I was going to be at 19 years old, I would have told you I 
 
 Today, my goal is to become a great engineer, to improve my skills each day, to solve interesting and challenging problems, and to contribute to humanity's collective push towards a better and brighter future.
 
+# Selected Writings
+
+May 2021 <br>
+<br>
+The last hour has been an eternity, <br>
+If there is a secret to everlasting consciousness <br>
+Its filing documents. <br>
+It never ends. <br>
+
+<br>
+
+July 2021 <br>
+<br>
+I lost two to the same disease <br>
+Drugs, <br>
+Addiction, <br>
+Self Deprecating Mania. <br>
+They dissolve their connections to the world, <br>
+Until all that is left, <br>
+Is themselves. <br>
+<br>
+Strength in self, <br>
+In pursuing that brighter tomorrow, <br>
+Is easy to lose hold of, <br>
+But we must take every step we can, <br>
+Because even if we can’t control the future, <br>
+We sure can move the needle. <br>
+
 <br>
 
 August 2021<br>
@@ -42,6 +70,7 @@ Work until it is impossible to lose. <br>
 "I listen with attention to the judgement of all men; but so far as I can remember, I have followed none but my own.” -Michel de Montaigne<br>
 <br>
 
+
 "Anything Essential is Invisible to the Eyes" - The Little Prince<br>
 <br>
 
@@ -58,10 +87,10 @@ Work until it is impossible to lose. <br>
 - I was one round win away from qualifying to the Pro Tour of Magic The Gathering when I was 16.
 - I started my high school & collegiate League of Legends teams
 - I hit Master in League of Legends
-- I play the piano
+- I play the [piano](https://www.citibikenyc.com/).
 
 
-# Some of my Favorite Music
+# Recommended Listening
 
 - El Ten Eleven - El Ten Eleven
 - Nujabes - Modal Soul
@@ -77,3 +106,11 @@ Work until it is impossible to lose. <br>
 - Pretty Lights - Taking Up Your Precious Time
 - Quantic - The 5th Exotic
 - Yppah - Eighty One
+
+
+# Websites from People I Admire
+
+- [Joe Malatesta](https://www.joemmalatesta.com/)
+
+
+If we are friends and you feel like you belong on this list, you're probably right. Submit a PR, or ask me, and I'll add you.
