@@ -16,34 +16,8 @@ Today, my goal is to become a great engineer, to improve my skills each day, to 
 
 # Selected Writings
 
-May 2021 <br>
-<br>
-The last hour has been an eternity, <br>
-If there is a secret to everlasting consciousness <br>
-Its filing documents. <br>
-It never ends. <br>
 
 <br>
-
-July 2021 <br>
-<br>
-I lost two to the same disease <br>
-Drugs, <br>
-Addiction, <br>
-Self Deprecating Mania. <br>
-They dissolve their connections to the world, <br>
-Until all that is left, <br>
-Is themselves. <br>
-<br>
-Strength in self, <br>
-In pursuing that brighter tomorrow, <br>
-Is easy to lose hold of, <br>
-But we must take every step we can, <br>
-Because even if we can’t control the future, <br>
-We sure can move the needle. <br>
-
-<br>
-
 August 2021<br>
 <br>
 
