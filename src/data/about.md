@@ -14,6 +14,7 @@ If you asked me what I was going to be at 19 years old, I would have told you I 
 
 Today, my goal is to become a great engineer, to improve my skills each day, to solve interesting and challenging problems, and to contribute to humanity's collective push towards a better and brighter future.
 
+<br>
 
 August 2021<br>
 <br>
